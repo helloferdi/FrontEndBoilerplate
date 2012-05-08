@@ -10,7 +10,7 @@
 
     <!--[if IE]><![endif]-->
     <link rel="stylesheet" type="text/css" media="screen" href="/_lib/css/main.css" />
-    <link rel="shortcut icon" href="/_lib/img/design/favicon.png" />
+    <link rel="shortcut icon" href="/favicon.png" />
 </head>
 
 <body class="<?php echo 'loc' . $loc[0]; ?>">
