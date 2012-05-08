@@ -3,7 +3,7 @@ frbi's FrontEnd Boilerplate
 
 Been using this boilerplate setup for a while now and it enables me to hit the ground running when creating a new template. File structure is pretty self-explanatory, which makes it easy to find your sources and keeps things tidy. 
 
-The boilerplate includes a stripped down version of the HTML5 boilerplate, a CSS reset and the latest version of jQuery. Header, footer, main navigation and secondary navigation are found in the _inc folder, for your include happiness. There's even a free favicon (PNG24, 32x32), so you don't forget to make one. And you can find your dev tab amongst all the open Reddit/imgur tabs. You're welcome.
+The boilerplate includes a stripped down version of the **HTML5 boilerplate**, a **CSS reset** and the latest version of **jQuery**. All wrapped up in **PHP includes**: Header, footer, main navigation and secondary navigation are found in the _inc folder, for your include happiness. There's even a free **favicon** (PNG24, 32x32), so you don't forget to make one. And you can find your dev tab amongst all the open Reddit/imgur tabs. You're welcome.
 
 In the header of your page, just declare two variables:
 
