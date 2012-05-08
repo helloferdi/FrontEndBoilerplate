@@ -1,5 +1,6 @@
 frbi's FrontEnd Boilerplate
 ===================
+*Current jQuery version included: v1.7.2
 
 Been using this boilerplate setup for a while now and it enables me to hit the ground running when creating a new template. File structure is pretty self-explanatory, which makes it easy to find your sources and keeps things tidy. 
 
