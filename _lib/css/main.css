@@ -1,0 +1,57 @@
+/* EM Reset Revisited */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {margin: 0;padding: 0; border: 0; outline: 0; font-size: 100%; font: inherit; vertical-align: baseline;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+body {line-height: 1;}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+ins {text-decoration: none;}
+del {text-decoration: line-through;}
+table {border-collapse: collapse;border-spacing: 0;}
+/* End of Reset */
+
+/* Misc. */
+html {font-size:62.5%; overflow-y:scroll; font-family: Arial, Helvetica, sans-serif;}
+body {font-size:1.2em;}
+::-moz-selection{ background: #5c6366; color:#fff; text-shadow: none; }
+::selection { background:#5c6366; color:#fff; text-shadow: none; }
+a:link { -webkit-tap-highlight-color: #f15c22; }
+button {  width: auto; overflow: visible; }
+.ie7 img { -ms-interpolation-mode: bicubic; }
+body, select, input, textarea {  color: #444; }
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+h1 { font-size: 3em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.2em; }
+a { text-decoration: none; color: #808080 }
+a:hover { color: #000; }
+p, ul {line-height: 1.6em; margin-bottom: 1em;}
+#copyright {font-size: .9em; color: #999; margin: 20px 0;}
+
+/* Form Elements */
+select, input, textarea {  color: #999; border: 1px solid #ccc; padding: 2px; font-family: Arial, Helvetica, sans-serif; font-size: 1em; width: 250px;}
+select {width: 258px;}
+select:hover, input:hover, textarea:hover { border: 1px solid #999 }
+select:active, input:active, textarea:active,
+select:focus, input:focus, textarea:focus { color: #333; border: 1px solid #ecad10 }
+button::-moz-focus-inner { padding: 0; border: 0 }
+button { background: none; border: 0;padding: 0; margin: 0; font-family: Arial, Helvetica Neue, sans-serif; font-size: 1em;}
+label { display: block; font-weight: bold;}
+
+/* Menus */
+#navmain { margin: 0; }
+#navsec { margin: 0; }
+
+/* Main Layout */
+#container { width: 960px; margin: 0 auto; background: #eee;}
+#header { background: lightgreen; }
+#maincontent { background: lightyellow; overflow: hidden; }
+#footer { background: lightblue; }
+
+/* IE */
+html.ie {}
+html.ie6 {}
+html.ie7 {}
+html.ie8 {}
+html.ie9 {}
